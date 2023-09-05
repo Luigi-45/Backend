@@ -1,0 +1,17 @@
+C:\Users\Eder\Documents\NetBeansProjects\Backend-Spring\src\main\java\com\Backend\services\insumo\InsumoService.java
+C:\Users\Eder\Documents\NetBeansProjects\Backend-Spring\src\main\java\com\Backend\repositories\IInsumoRepository.java
+C:\Users\Eder\Documents\NetBeansProjects\Backend-Spring\src\main\java\com\Backend\entities\Producto.java
+C:\Users\Eder\Documents\NetBeansProjects\Backend-Spring\src\main\java\com\Backend\util\configuration\CorsConfig.java
+C:\Users\Eder\Documents\NetBeansProjects\Backend-Spring\src\main\java\com\Backend\controllers\ProductoController.java
+C:\Users\Eder\Documents\NetBeansProjects\Backend-Spring\src\main\java\com\Backend\services\producto\ProductoService.java
+C:\Users\Eder\Documents\NetBeansProjects\Backend-Spring\src\main\java\com\Backend\domain\insumo\InsumoBO.java
+C:\Users\Eder\Documents\NetBeansProjects\Backend-Spring\src\main\java\com\Backend\repositories\IProductoRepository.java
+C:\Users\Eder\Documents\NetBeansProjects\Backend-Spring\src\main\java\com\Backend\entities\Insumo.java
+C:\Users\Eder\Documents\NetBeansProjects\Backend-Spring\src\main\java\com\Backend\domain\insumo\IInsumoBOCRUD.java
+C:\Users\Eder\Documents\NetBeansProjects\Backend-Spring\src\main\java\com\Backend\services\insumo\IInsumoServiceCRUD.java
+C:\Users\Eder\Documents\NetBeansProjects\Backend-Spring\src\main\java\com\Backend\principal\PrincipalApplication.java
+C:\Users\Eder\Documents\NetBeansProjects\Backend-Spring\src\main\java\com\Backend\services\producto\IProductoServiceCRUD.java
+C:\Users\Eder\Documents\NetBeansProjects\Backend-Spring\src\main\java\com\Backend\util\exceptions\ResourceNotFoundException.java
+C:\Users\Eder\Documents\NetBeansProjects\Backend-Spring\src\main\java\com\Backend\controllers\InsumoController.java
+C:\Users\Eder\Documents\NetBeansProjects\Backend-Spring\src\main\java\com\Backend\domain\producto\IProductoBOCRUD.java
+C:\Users\Eder\Documents\NetBeansProjects\Backend-Spring\src\main\java\com\Backend\domain\producto\ProductoBo.java
